@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @econoecosociometrica
+- 👋 Hi, I’m @mathemetrica
 - 👀 I’m interested in helping people know things. 
 - 🌱 I’m currently learning python and data science.
 
