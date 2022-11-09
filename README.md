@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mathemetrica
+- 👋 Hi, I’m @epistemetrica
 - 👀 I’m interested in helping people know things. 
 - 🌱 I’m currently learning python and data science.
 
